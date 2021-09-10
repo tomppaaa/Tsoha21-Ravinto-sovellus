@@ -10,6 +10,8 @@ Sovelluksen ominaisuuksia ovat:
 - Käyttäjä voi tallentaa annoksia ja ehkä jopa lisätä reseptin, minkä muut käyttäjät voi arvostella. 
 - Reseptin voi myös poistaa tai sitä voi muokata.
 
+Ravintola sovellus:
+
 - Yksittäinen ravintola voi koota oman listan valittavista raaka-aineista.
 - Ravintola voi lisätä omia valmiita annosrunkoja ja näitä käyttäjillä on mahdollisuus arvioida.
 - Ravintolat näkevät tarkempaa tilastoa ostetuista annoksista ja valituista raaka-aineista.
